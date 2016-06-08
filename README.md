@@ -1,2 +1,3 @@
 # Ol-Mundo
 Teste de criação de repositorio
+Olá, agora é exatamente 00:39, e eu Giustavo Rocha Tambelini estou aqui aprendedo sobre  o GitHupara poder entregar o trabalho de algoritimo do Prof:Altieres... 
